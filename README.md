@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ibtsaam Qadir.
 #### Embedded Systems, Internet of Things & Machine Learning
-I am Muhammad Ibtsaam Qadir, an Electrical Engineering student. I am a passionate embedded systems, IoT and machine learning developer. I enjoy coding in general.
+I am Muhammad Ibtsaam Qadir, an Electrical Engineering student. I am a passionate about Machine Learning, Health Informatics, Medical Image Analysis, Robotics and IoT. I enjoy coding in general.
 
 
 ### Skills
