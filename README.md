@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ibtsaam Qadir.
-#### Machine Learning, Signal Processing, Medical Imaging & IoT
-I am Muhammad Ibtsaam Qadir, an Electrical Engineering student. I am passionate about Machine Learning, Health Informatics, Medical Image Analysis, Robotics, and IoT. Enjoy Coding!!!
+#### Deep Learning, Medical Image Analysis, Health Data Science
+I am Muhammad Ibtsaam Qadir, a Ph.D. student in Biomedical Engineering at Purdue University. My interests are in deep learning-based medical image analysis (including radiology and histopathology) and developing foundation models for early medical diagnosis. Enjoy Coding!!!
 
 
 ### Skills
